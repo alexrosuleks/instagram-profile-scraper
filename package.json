@@ -1,0 +1,20 @@
+{
+  "name": "instagram-profile-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Instagram Profile Scraper: Scrape public Instagram profile details from usernames, IDs, or URLs: bio, follower and following counts, posts count, verification, business category, external links, and r",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "instagram"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
